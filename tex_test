@@ -1,0 +1,9 @@
+\documentclass{article}
+\usepackage{blindtext}
+
+\begin{document}
+
+\section{Understanding Git}
+\blindtext
+
+\end{document}
